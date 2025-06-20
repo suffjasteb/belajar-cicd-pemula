@@ -38,3 +38,5 @@ jobs:
       with:
          push: true
          tags: ebhousel/belajar-cicd:latest
+
+         #
